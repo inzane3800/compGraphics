@@ -1,4 +1,4 @@
-The program draws the lorenz curve on the x,y,z plane with rainbow coloring, the color changes as it iterates through the vertices being drawn \\
+The program draws the lorenz curve on the x,y,z plane with rainbow coloring, the color changes as it iterates through the vertices being drawn 
 
 To use first use make on the target file hw2 
 then use ./hw2 
